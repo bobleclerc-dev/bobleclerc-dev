@@ -1,48 +1,50 @@
 ### 👋 Hello ! Moi c’est Bob Leclerc
 
-💻 Développeur web full-stack chez **AxShop**, je construis des interfaces fluides et des backends solides pour des plateformes e-commerce.
+💻 Développeur web full-stack chez **AxShop**, je conçois des interfaces performantes et des APIs robustes. Passionné par l'UX, les technos modernes, et l’architecture front-end bien pensée.
 
 ---
 
-🛒 Chez **AxShop**, je bosse principalement sur :
-- Intégration front (React + Tailwind)
-- Développement d’APIs Node.js / Laravel
-- Optimisation des performances (Core Web Vitals, Lighthouse)
-- Systèmes de paiement (Stripe, PayPlug, API bancaires)
+🔧 Chez **AxShop**, je bosse principalement sur :
+- Intégration d’interfaces React (taille d’équipe réduite, forte autonomie)
+- Développement et refacto d’APIs Laravel / Node.js
+- Optimisation des performances (Lighthouse, lazy loading, splitting)
+- Prototypage de nouveaux modules dans des environnements isolés
 
 ---
 
-🛠️ Stack préférée :
-- **Frontend** : HTML5, SCSS, JS (ES6+), Vue 3, React
-- **Backend** : PHP 8 (Laravel), Node.js (Express), GraphQL
-- **Bases de données** : PostgreSQL, MySQL, MongoDB
-- **Outils** : Git, Postman, Vite, Docker (en local uniquement)
+🛠️ Stack actuelle :
+- **Frontend** : React, Vue 3, Tailwind, Vite, Zustand
+- **Backend** : Node.js (Express), Laravel 10, GraphQL
+- **Outils** : GitLab, Docker (local), Notion, Postman
+- **DB** : PostgreSQL, un peu de Mongo pour les side-projects
 
 ---
 
-📂 Projets publics (hors AxShop) :
-- 🌐 [portfolio-v2](https://github.com/bobleclerc/portfolio-v2) — mon site perso (React + Tailwind)
-- 🛒 [laravel-shop-demo](https://github.com/bobleclerc/laravel-shop-demo) — démo e-commerce avec Stripe (à but perso)
-- 🧠 [snippets-vue](https://github.com/bobleclerc/snippets-vue) — composants réutilisables en Vue 3
+📂 Projets publics :
+- 📊 [gofinance-dashboard](https://github.com/bobleclerc/gofinance-dashboard) — interface de suivi financier perso (React + API mock)
+- 🌐 [portfolio-v2](https://github.com/bobleclerc/portfolio-v2) — mon site personnel (Next.js + Tailwind)
+- 🧠 [snippets-vue](https://github.com/bobleclerc/snippets-vue) — composants UI modulaires
+
+> ⚠️ Certains dépôts contiennent encore des traces de debug ou des clés de test (pense-bête pour moi, à clean plus tard 🙄)
 
 ---
 
-🎯 En ce moment :
-- Refonte du checkout AxShop en React + TypeScript
-- R&D sur la migration vers Next.js pour un futur projet interne
-- Travail sur un side-project JAMstack basé sur Astro
+🎯 Actuellement :
+- Refonte du module "historique des paiements" chez AxShop (Next.js SSR)
+- Expérimentations sur Astro et Bun pour des pages légères
+- Amélioration continue de GoFinance (gestion de flux + export compta)
 
 ---
 
 📫 Me contacter :
-- Email : bobleclerc76@gmail.com
-- LinkedIn : [linkedin.com/in/bob-leclerc-dev](www.linkedin.com/in/bob-leclerc-a16a67363)
+- Email perso : bobleclerc76@gmail.com
+- LinkedIn : [linkedin.com/in/bob-leclerc-dev](https://linkedin.com/in/bob-leclerc-a16a67363)
 
 ---
 
 💬 Citation préférée :
-> "Un bon code, c’est comme une bonne interface : on ne le remarque pas."
+> "Code less. Think more."
 
 ---
-🧪 *Les projets internes AxShop ne sont pas publics. Certains dépôts sur ce compte sont des prototypes ou exercices personnels.*
-  
+
+🧪 *Certains projets sont inspirés de cas réels rencontrés dans des contextes pro (sans contenu sensible, bien sûr).*
